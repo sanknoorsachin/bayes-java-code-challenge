@@ -15,7 +15,7 @@ http://localhost:8080/api/match/1
 
 ![image](https://user-images.githubusercontent.com/128981420/227790159-f8d4d952-c54a-4844-ad58-14e41cd54f3a.png)
 
-3) Endpoint to get items brought by hero for a given match
+3) Endpoint to get items brought with timestamp by hero for a given match
 
 http://localhost:8080/api/match/2/mars/items
 
